@@ -1,8 +1,8 @@
-# TicketScraper
+# PythonTicketScraper
 
 ## Overview
 
-TicketScraper is a web scraping project designed to extract information about concerts and artists from the Gametime website. The project aims to provide a simple and efficient way to gather data about upcoming concerts and artist tickets.
+PythonTicketScraper is a web scraping project designed to extract information about concerts and artists from the Gametime website. The project aims to provide a simple and efficient way to gather data about upcoming concerts and artist tickets.
 
 ## Features
 
