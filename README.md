@@ -16,21 +16,25 @@ TicketScraper is a web scraping project designed to extract information about co
 - Python 3.x
 - `requests` library for sending HTTP requests
 - `beautifulsoup4` library for parsing HTML content
-- `csv` library for storing data in CSV files
+- `csv` library for storing data in CSV files. Comes pre-installed with Python.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ticketScraper.git
+   git clone https://github.com/Queror254/python-ticket-scraper.git
    ```
-2. Install the required libraries:
+2. Change to scraper directory
+   ```bash
+   cd python-ticket-scraper
+   ```
+3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the scraper:
+4. Run the scraper:
    ```bash
-   python ticketScraper.py
+   python scraper.py
    ```
 
 ## Usage
